@@ -1,5 +1,5 @@
 <h1>Eye Tracker</h1>
-Excercise on using CSS and JS to follow mouse movement on screen
+Excercise on using CSS and JS to follow mouse movement on screen. TML div elements will transform based on mouse location making the appearance that the mouse is beign watched
 <h2>Future Improvements</h2>
 None
 <h2>How to run</h2>
