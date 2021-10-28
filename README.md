@@ -2,6 +2,8 @@
 Excercise on using CSS and JS to follow mouse movement on screen
 <h2>Future Improvements</h2>
 None
+<h2>How to run</h2>
+Create new folder on your local system. Copy index.html, eyes.js and styles.css to the folder. Double click or right click/open index.html
 <h2>Soure API's</h2>
 None
 <h2>License</h2>
